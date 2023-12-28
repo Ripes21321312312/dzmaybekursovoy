@@ -1,5 +1,10 @@
 @media screen and (max-width:1400px)
 {
+
+    .left_section1-buttons
+    {
+        margin-left: 9%;
+    }
     .section5_bars-cont
     {
         width: 80%;
